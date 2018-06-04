@@ -1,0 +1,42 @@
+{
+  "_from": "gamereward",
+  "_id": "gamereward@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-0TMkcUfKST+yxWCFrAqj02/EczNFgFOpRZtEJUest5F223Qca7umxjcFI0nss7OwSfmANijUc35C5icw8kO2zw==",
+  "_location": "/gamereward",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gamereward",
+    "name": "gamereward",
+    "escapedName": "gamereward",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gamereward/-/gamereward-1.0.4.tgz",
+  "_shasum": "22f70812c5bcd1c13ddf1ce4285863fd0d957c9d",
+  "_spec": "gamereward",
+  "_where": "D:\\Projects\\Webs\\Examples\\Librarys\\NodeJS\\sdk",
+  "author": {
+    "name": "gamereward.io"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "GameReward SDK from node.js",
+  "keywords": [
+    "GameReward"
+  ],
+  "license": "ISC",
+  "main": "reward.js",
+  "name": "gamereward",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
